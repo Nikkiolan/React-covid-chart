@@ -37,7 +37,7 @@ const Footer = props => {
                 <div className="row">
                     <div className="col-md-12">
                     <hr />
-                        <p align="center"> Sito realizzato con <a href="https://it.reactjs.org/" target="_blank" >React </a> e <a href="https://getbootstrap.com/" target="_blank" > Bootstrap </a> a cura di <a href="mailto:nicola.naracci@gmail.com">nicola.naracci@gmail.com</a> © .  Elaborazioni Ridistribuite con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.en" target="_blank" >CC-BY-4.0</a>.</p> <p>Non si fa uso di Cookies.  Open Source <a href="https://github.com/Nikkiolan/React-covid-chart">Project</a></p> <p>Competenze acquisite seguendo i video del grande <a href="https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg" target="_blank" >Fazt</a> </p>
+                        <p align="center"> Sito realizzato con <a href="https://it.reactjs.org/" target="_blank" >React </a> e <a href="https://getbootstrap.com/" target="_blank" > Bootstrap </a> a cura di <a href="mailto:nicola.narracci@gmail.com">nicola.narracci@gmail.com</a> © .  Elaborazioni Ridistribuite con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.en" target="_blank" >CC-BY-4.0</a>.</p> <p>Non si fa uso di Cookies.  Open Source <a href="https://github.com/Nikkiolan/React-covid-chart" target="_blank" >Project</a></p> <p>Competenze acquisite seguendo i video del grande <a href="https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg" target="_blank" >Fazt</a> </p>
                         
                 </div>
             </div>
